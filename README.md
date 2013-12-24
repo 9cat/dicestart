@@ -8,7 +8,7 @@ Requirements:
 - mysql
 - php
 
-Configuration (set up constants and variables):
+Configuration ( read the comments and set up constants/variables):
 inc/conf.php
 
 How to use (console):
