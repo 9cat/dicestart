@@ -1,7 +1,7 @@
 dicestart
 =========
 
-Mini framework with small footprint for easy creating blockchain games.
+Mini framework with small footprint for easy creating blockchain games Satoshidice like.
 
 PoC game: coinflip with 50% chances to win and 1.95 odds predefined
 
