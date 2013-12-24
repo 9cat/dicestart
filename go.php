@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 
-include_once('/var/www/swork/dice/pr/inc/conf.php');
+include_once('/path_to/inc/conf.php');
 
 mysql_connect(DB_HOST,DB_USER,DB_PASS) or die(mysql_error()." ".mysql_errno());
 mysql_select_db(DATABASE) or die(mysql_error()." ".mysql_errno());
