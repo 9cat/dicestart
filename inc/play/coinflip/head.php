@@ -31,7 +31,7 @@ $min_bet = 0.1;
 $play_log = array();
 
 $play_log["txin"] = $stx;
-$play_log["oddaddress"] = $odd;
+$play_log["oddaddress"] = $odd_address;
 $play_log["odd"] = $odd;
 
 
